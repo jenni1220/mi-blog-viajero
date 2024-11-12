@@ -9,7 +9,7 @@
 6. [Despliegue](#despliegue)
 
 ## Introducción
-En este apartado, se explicará el propósito y los objetivos principales de la landing page, así como su relevancia para el proyecto o campaña en la que se está utilizando.
+¡Bienvenidos a mi rincón viajero! Aquí compartiré mis aventuras, descubrimientos y momentos especiales de mis viajes alrededor del mundo. Desde rincones ocultos hasta destinos populares, cada lugar tiene una historia que contar. Mi objetivo es inspirarte a explorar más allá de lo conocido, disfrutar de la cultura local y, sobre todo, crear recuerdos inolvidables. ¡Acompáñame en este viaje!
 
 ## Estructura de la Landing Page
 Aquí se detallará la estructura de la página, incluyendo las secciones principales que componen la landing page, como el encabezado, las secciones de contenido, el formulario de captura de datos y el pie de página.
