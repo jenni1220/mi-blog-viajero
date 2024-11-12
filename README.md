@@ -17,6 +17,7 @@ La landing page tiene una estructura sencilla pero efectiva, pensada para captar
  **Encabezado**:
 - Logo: Tenemos la foto y el nombre de la persona la cual hace referencia los viajes.
 - Navegación mínima: Tenemos un espacio donde te damos la opcion de que nos envies un correo.
+ 
 - **Cuerpo principal**: Podemos ver que tenemos tres secciones de distntos lugares visitados por la persona del blog
 - Tambien tenemos 3 fotografias donde podemos admirar la belleza de cada lugar conocido.
 
