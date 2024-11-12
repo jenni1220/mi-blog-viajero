@@ -1,0 +1,173 @@
+html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+body {
+    margin: 0;
+    background-color: #fff;
+    color: #212529;
+}
+
+header {
+    margin: 0;
+    padding-top: 22px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 0; 
+    text-align: center;
+}
+
+.profile-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.profile-left {
+    display: flex;
+    align-items: center;
+    padding-top: 2px;
+    gap: 0.5rem;
+}
+
+.profile-image {
+    width: 32px;
+    height: 32px;
+    font-weight: 100;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.profile-name {
+    font-size: 1rem;
+    color: #212529;
+    font-weight: 500;
+    padding-left: 32px;
+}
+
+.email-button button {
+    background-color: #4B5563;
+    color: white;
+    padding-top: 8px;      
+    padding-bottom: 8px;  
+    padding-left: 16px;      
+    padding-right: 16px;  
+    font-size: 14px;
+    line-height: 20px;    
+    font-weight: 500;
+    border-radius: 6px;  
+    border-width: 1px;
+    border-color: transparent;
+    display: inline-flex;
+    align-items: center;
+    border: none;
+    cursor: pointer;
+    font-size: 0.875rem;
+}
+
+.blog-description {
+    max-width: 1200px;
+    margin: 3rem auto;
+    text-align: center;
+    padding-top: 0px;
+}
+
+.blog-description h1 {
+    font-size: 2.2rem;
+    font-weight: 800;
+    color: #212529;
+    margin-bottom: 1rem;
+}
+
+.blog-description p {
+    color: #6c757d;
+    font-size: 1.25rem;
+    margin: 0;
+}
+
+
+.container-cards{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 20px;
+    justify-content: space-around;
+    padding: 20px;
+    margin: 0 -16px;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 350px; 
+    width: 300px; 
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+.card .image{
+    flex-shrink: 0;
+}
+
+.card .image img {
+    width: 100%;
+    height: 12rem;
+    object-fit: cover
+}
+
+/* Información de la tarjeta */
+.information {
+    padding: 23px;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+/* Estilo para el país y el título */
+.country p {
+    font-size: 0.875rem;
+    font-weight: 500;
+    margin: 0 0 0.5rem 0;
+    color: #000;
+    margin: 0;
+    padding-top: 9px;
+    padding-bottom: 18px;
+    padding-left: 0;
+    padding-right: 0px;
+}
+
+.country a{
+    font-weight: 600;
+    font-size: 1.25rem;
+    color: #111827;
+    margin: 5px 0;
+    margin-bottom: 0.75rem;
+    display: block;
+}
+
+/* Descripción */
+.description p {
+    font-size: 1rem;
+    line-height: 1.5;
+    font-weight: 400;
+    margin: 0 0 1rem 0;
+    color: #000;
+    margin-top: 10px;
+    padding-bottom: 30px;
+}
+
+
+.date {
+    margin-top: auto;
+    font-size: 0.875rem;
+    color: #6B7280;
+    display: block;
+}
